@@ -1,0 +1,280 @@
+window.FRUS_RESEARCH = {
+  "metadata": {
+    "generated_at": "2026-05-29",
+    "source_status_date": "May 29, 2026",
+    "source_status_url": "https://history.state.gov/historicaldocuments/status-of-the-series",
+    "status": "Being Researched",
+    "doc_id": "frus1993-00v27",
+    "repo_slug": "frus-1993-00v27-assist",
+    "pages_url": "https://therealjameswilson.github.io/frus-1993-00v27-assist/",
+    "repo_url": "https://github.com/therealjameswilson/frus-1993-00v27-assist",
+    "official_url": "https://history.state.gov/historicaldocuments/frus1993-00v27",
+    "title": "1993–2000, Volume XXVII, South Africa; Southern Africa",
+    "title_ascii": "1993-2000, Volume XXVII, South Africa; Southern Africa",
+    "era": "1993-2000",
+    "subject": "South Africa; Southern Africa",
+    "agencies": [
+      "Department of State",
+      "National Security Council",
+      "White House"
+    ],
+    "keywords": [
+      "South",
+      "Africa",
+      "Southern"
+    ],
+    "nara_scout_url": "https://therealjameswilson.github.io/nara-scout/#q=South+Africa%3B+Southern+Africa&from=1993&to=2000&sort=relevance&perColl=25&perPage=50",
+    "nara_catalog_url": "https://catalog.archives.gov/search?q=South%20Africa%3B%20Southern%20Africa",
+    "companion": [
+      "Southern Africa companion workbench",
+      "https://therealjameswilson.github.io/Clinton-South-and-Southern-Africa/"
+    ]
+  },
+  "lanes": [
+    {
+      "id": "lane-01",
+      "label": "South Africa",
+      "status": "Research lane",
+      "next_action": "Attach chronology anchors, source leads, candidate documents, and unresolved source-copy questions."
+    },
+    {
+      "id": "lane-02",
+      "label": "Southern Africa",
+      "status": "Research lane",
+      "next_action": "Attach chronology anchors, source leads, candidate documents, and unresolved source-copy questions."
+    }
+  ],
+  "source_leads": [
+    {
+      "id": "source-001",
+      "label": "Official history.state.gov volume page",
+      "url": "https://history.state.gov/historicaldocuments/frus1993-00v27",
+      "category": "Official volume",
+      "use": "Track title, status, and future publication metadata.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-002",
+      "label": "Status of the Series",
+      "url": "https://history.state.gov/historicaldocuments/status-of-the-series",
+      "category": "Official status",
+      "use": "Confirm the volume remains in the Being Researched production stage.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-003",
+      "label": "NARA Scout query",
+      "url": "https://therealjameswilson.github.io/nara-scout/#q=South+Africa%3B+Southern+Africa&from=1993&to=2000&sort=relevance&perColl=25&perPage=50",
+      "category": "Search tool",
+      "use": "Run a first-pass search for South Africa; Southern Africa.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-004",
+      "label": "NARA Catalog search",
+      "url": "https://catalog.archives.gov/search?q=South%20Africa%3B%20Southern%20Africa",
+      "category": "Archives",
+      "use": "Check catalog-visible record descriptions and scope notes.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-005",
+      "label": "William J. Clinton Presidential Library research portal",
+      "url": "https://www.clintonlibrary.gov/research",
+      "category": "Presidential library",
+      "use": "Check Clinton Library finding aids, digital collections, staff files, and FOIA releases.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-006",
+      "label": "State Department FOIA Virtual Reading Room",
+      "url": "https://foia.state.gov/",
+      "category": "FOIA",
+      "use": "Search released State Department records and source-note copy candidates.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-007",
+      "label": "Strobe Talbott FOIA Manifest",
+      "url": "https://therealjameswilson.github.io/strobe-talbott-foia/",
+      "category": "FOIA manifest",
+      "use": "Cross-check Clinton-era high-level diplomatic records and document-page leads.",
+      "status": "Seeded"
+    },
+    {
+      "id": "source-009",
+      "label": "Southern Africa companion workbench",
+      "url": "https://therealjameswilson.github.io/Clinton-South-and-Southern-Africa/",
+      "category": "Companion workbench",
+      "use": "Use the richer existing workspace for volume-specific records and research notes.",
+      "status": "Linked"
+    }
+  ],
+  "document_candidates": [
+    {
+      "id": "doc-001",
+      "title": "Official volume record and publication metadata",
+      "repository": "history.state.gov",
+      "sourceLead": "source-001",
+      "date": "Continuing",
+      "status": "Reference",
+      "action": "Watch for title, status, and chapter updates."
+    },
+    {
+      "id": "doc-002",
+      "title": "NARA catalog-visible candidate records",
+      "repository": "National Archives",
+      "sourceLead": "source-004",
+      "date": "TBD",
+      "status": "Search queue",
+      "action": "Export promising record descriptions and add file-unit identifiers."
+    },
+    {
+      "id": "doc-003",
+      "title": "Presidential library meeting and daily-file leads",
+      "repository": "William J. Clinton Presidential Library research portal",
+      "sourceLead": "source-005",
+      "date": "TBD",
+      "status": "Search queue",
+      "action": "Check daily diary, staff files, and finding aids for dated contacts."
+    },
+    {
+      "id": "doc-004",
+      "title": "Strobe Talbott FOIA cross-check set",
+      "repository": "State FOIA",
+      "sourceLead": "source-007",
+      "date": "TBD",
+      "status": "Search queue",
+      "action": "Compare manifest hits against volume lanes and source-note needs."
+    }
+  ],
+  "chronology": [
+    {
+      "id": "chrono-001",
+      "date": "1993-01-01",
+      "label": "Scope start anchor",
+      "note": "Begin chronology review for 1993-2000.",
+      "source": "Volume title scope",
+      "status": "Seeded"
+    },
+    {
+      "id": "chrono-002",
+      "date": "2000-12-31",
+      "label": "Scope end anchor",
+      "note": "End chronology review for 1993-2000.",
+      "source": "Volume title scope",
+      "status": "Seeded"
+    },
+    {
+      "id": "chrono-003",
+      "date": "TBD",
+      "label": "South Africa decision points",
+      "note": "Add public statements, high-level contacts, interagency meetings, and crisis milestones.",
+      "source": "Compiler lane seed",
+      "status": "Queue"
+    },
+    {
+      "id": "chrono-004",
+      "date": "TBD",
+      "label": "Southern Africa decision points",
+      "note": "Add public statements, high-level contacts, interagency meetings, and crisis milestones.",
+      "source": "Compiler lane seed",
+      "status": "Queue"
+    }
+  ],
+  "persons": [
+    {
+      "id": "person-01",
+      "role": "President of the United States",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    },
+    {
+      "id": "person-02",
+      "role": "Secretary of State",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    },
+    {
+      "id": "person-03",
+      "role": "National Security Advisor",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    },
+    {
+      "id": "person-04",
+      "role": "Deputy Secretary of State",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    },
+    {
+      "id": "person-05",
+      "role": "Executive Secretary of the Department of State",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    },
+    {
+      "id": "person-06",
+      "role": "FRUS volume compiler",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    },
+    {
+      "id": "person-07",
+      "role": "Assistant Secretary for African Affairs",
+      "status": "Roster target",
+      "action": "Verify names, dates, title changes, and source-note form before moving to a print roster.",
+      "era": "1993-2000"
+    }
+  ],
+  "gap_register": [
+    {
+      "id": "gap-001",
+      "area": "Coverage",
+      "previousGap": "No dedicated public page for this Being Researched volume.",
+      "fix": "Dedicated GitHub Pages workspace generated and linked from Compiler Assist.",
+      "status": "Closed structurally"
+    },
+    {
+      "id": "gap-002",
+      "area": "Source inventory",
+      "previousGap": "No public source-launchpad table.",
+      "fix": "Seeded official, archival, FOIA, NARA Scout, NARA Catalog, and presidential-library leads.",
+      "status": "Closed structurally"
+    },
+    {
+      "id": "gap-003",
+      "area": "Document candidates",
+      "previousGap": "No document-candidate table.",
+      "fix": "Added starter candidate buckets with repository, source lead, and next action fields.",
+      "status": "Seeded; needs archival enrichment"
+    },
+    {
+      "id": "gap-004",
+      "area": "Persons",
+      "previousGap": "No persons queue.",
+      "fix": "Added role-based persons roster queue for verification and name expansion.",
+      "status": "Seeded; needs name verification"
+    },
+    {
+      "id": "gap-005",
+      "area": "Chronology",
+      "previousGap": "No chronology table.",
+      "fix": "Added scope anchors and lane-specific chronology queues.",
+      "status": "Seeded; needs event extraction"
+    },
+    {
+      "id": "gap-006",
+      "area": "Companion workbench",
+      "previousGap": "Existing richer workbench was not consistently linked.",
+      "fix": "Linked Southern Africa companion workbench.",
+      "status": "Closed"
+    }
+  ]
+};
